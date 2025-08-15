@@ -1,0 +1,9 @@
+# Foundry artifacts
+out/
+cache/
+
+# Node modules (if used)
+node_modules/
+
+# Environment files
+.env

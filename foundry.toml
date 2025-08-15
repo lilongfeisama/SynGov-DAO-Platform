@@ -1,0 +1,9 @@
+[default]
+src = 'src'
+test = 'test'
+out = 'out'
+libs = ['lib']
+
+# Example remappings for OpenZeppelin installed via git submodule or forge install
+# The user should run `forge install OpenZeppelin/openzeppelin-contracts` to fetch dependencies.
+
